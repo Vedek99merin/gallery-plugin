@@ -1,0 +1,17 @@
+.img-ratio {
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin: 10px 10px;
+}
+
+#gallery_wrapper-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 50px auto;
+    max-width: 1400px;
+}
+
+h1.title {
+    text-align: center;
+}
